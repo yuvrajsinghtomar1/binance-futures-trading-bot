@@ -1,0 +1,4 @@
+2026-06-12 19:22:16,098 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-12 19:22:17,783 - INFO - Response: {}
+2026-06-12 19:22:27,171 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.001, 'price': 95000.0, 'timeInForce': 'GTC'}
+2026-06-12 19:22:28,625 - INFO - Response: {}
